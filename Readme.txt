@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for downloading this !
 
 Template Name: Eventix
-Template URL: https://bootstrapmade.com/eventix-bootstrap-events-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template URL: https://bootstrapmade.com/eventix-bootstrap-events-website.
+Author: mnijodj.com
+License: https://mnijodj.com/license/
